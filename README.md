@@ -1,2 +1,0 @@
-# jaybot
-jay bot chai
